@@ -6,7 +6,7 @@ O objetivo desse desafio é testar o conhecimento no desenvolvimento web, testan
 - Primeiro realize um *Fork* deste projeto.
 - Crie uma branch com o teu nome.
 - Realize todos os commits nescessários na tua branch.
-- Crie um README com o passo a passo para a execução do projeto em localhost.
+- Crie um README com o passo a passo e requisitos para a execução do projeto em localhost.
 - Ao finalizar Envie o link do repositório para (novesthago@gmail.com)
 
 ### Back-end
