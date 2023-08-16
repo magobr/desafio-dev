@@ -11,6 +11,7 @@ O objetivo desse desafio é testar o conhecimento no desenvolvimento web, testan
 
 ### Back-end
 Desenvolva uma API que exerça um CRUD (Create, Read, Update, Delete), de uma lista de alunos com os dados representados a baixo:
+
 O modelo de banco de dados e linguagem para desenvolvimento fica a sua escolha.
 
 ```
@@ -24,6 +25,7 @@ O modelo de banco de dados e linguagem para desenvolvimento fica a sua escolha.
 
 ### Front-end
 Desenvolva um webapp que consuma a o back-end criado a cima com as seguintes telas:
+
 O uso de frameworks e bibliotecas fica a teu critério.
 
 - Formulário de cadastro de Aluno
